@@ -1,0 +1,99 @@
+.google {
+font-family: arial;
+font-size: 50px;
+position: fixed;
+width: 200px;
+height:50px;
+color: blue;
+bottom:600px;
+right:680px;
+}
+
+.google:hover {
+color: red;}
+
+.google2 {
+font-family: arial;
+font-size: 40px;
+position: fixed;
+width: 500px;
+height:50px;
+bottom:520px;
+right:530px;
+}
+
+.google3 {
+font-family: arial;
+font-size: 20px;
+position:fixed;
+width:300px;
+bottom:485px;
+right:640px;
+}
+
+.table {
+position: fixed;
+width:300px;
+bottom:310px;
+right:640px;
+}
+
+.table1 {
+position: fixed;
+width:300px;
+bottom:280px;
+right:640px;}
+
+.email {
+color:blue;
+font-family: arial;
+font-size: 15px;
+position:fixed;
+width:200px;
+bottom:260px;
+right:745px;
+}
+
+.email:hover {
+color:black;}
+
+.account {
+color: blue;
+font-family: arial;
+font-size:15px;
+position:fixed;
+width:200px;
+bottom:210px;
+right:644px;
+}
+
+.account:hover {
+color: red;
+}
+
+.image {
+height: 111px;
+position: fixed;
+bottom: 344px;
+right: 735px;
+transition-property: height;
+transition-duration: 1s;
+transition-timing-function: linear;
+}
+
+.image:hover {
+height:120px;
+}
+
+.table2 {
+border-width: 1px;
+border-style: solid;
+background-color: #ffffcc;
+position: fixed;
+bottom: 240px;
+right:620px;
+width:220px;
+padding:60px;
+margin-top: 280px;
+height: 110px;
+}
