@@ -1,2 +1,1 @@
-Google login
-Login to an account
+Google login to an account
