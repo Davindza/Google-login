@@ -1,2 +1,2 @@
-#google login
+Google login
 Login to an account
